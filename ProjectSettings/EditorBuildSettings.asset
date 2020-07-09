@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/AnaMen\xFC.unity"
+    guid: 85f95f8fe7e6f4149a8dd94a0665bd09
+  - enabled: 1
+    path: Assets/Scenes/Ayarlar.unity
+    guid: 591ad009f3356c442abb485b86d4be43
+  - enabled: 1
+    path: "Assets/Scenes/Da\u011F.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
